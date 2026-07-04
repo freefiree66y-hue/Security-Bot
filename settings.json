@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "skullsmp-cD8w.aternos.me",
+    "ip": "snook.aternos.host",
     "port": 53442,
-    "version": "26.1.2"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
